@@ -1126,7 +1126,7 @@ body._hidden {
   /* .main-products__love */
   /* .main-products__button */
 }
-.main-products__contein {
+.main-products__conteiner {
   display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16.25rem, 1fr));
